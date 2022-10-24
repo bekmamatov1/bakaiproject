@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.look{
+    position: absolute;
+    margin: 70px 0 0 130px;
+    width: 30px;
+    height: 30px;
+    left: 2px;
+
+}
+.pool{
+    display: flex;
+    justify-content: center;
+    a
+
+}
