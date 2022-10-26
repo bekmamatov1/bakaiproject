@@ -10,9 +10,21 @@
     left: 2px;
 
 }
-.pool{
+.daf{
+    position: absolute;
     display: flex;
     justify-content: center;
-    a
-
+    align-items: center;
+    margin: 130px 0 0 650px;
+}
+.left{
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 220px 0 0 650px;
+}
+.keep{
+    position: absolute;
+    margin: 310px 0 0 650px;
 }
